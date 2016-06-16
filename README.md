@@ -7,4 +7,4 @@
 <b>Example screenshots of our completed Space Shooter game.</b><br><br>
 ![Alt text](https://github.com/EvelynDestiny/Unity3D_SpaceShooter/blob/master/spaceshooter/spaceshooter.jpg)
 <br><br>
-<b>Controls:</b><br><br>Forward: up arrow <br><br>Backward: down arrow <br><br>Turn: left or right arrow <br><br>Shoot: enter<br><br>
+<b>Controls:</b><br><br>Forward: up arrow <br><br>Backward: down arrow <br><br>Turn: left or right arrow <br><br>Shoot: ctrl<br><br>
